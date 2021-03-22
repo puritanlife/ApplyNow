@@ -1,0 +1,3 @@
+﻿CREATE TYPE [dss].[LIVE_PUID]
+    FROM BIGINT NULL;
+
