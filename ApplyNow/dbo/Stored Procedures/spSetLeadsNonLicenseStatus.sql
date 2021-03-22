@@ -14,7 +14,7 @@ BEGIN;
 								uneccessary logging of proc calls. Work assigned in ticket #
 								https://trello.com/c/CqmowQ3V/547-review-spsetleadsnonlicensestatus
 	------------------------------------------------------------------------------------------  
-	TAGS: Leads, Status
+	TAGS: Leads, Status, 
 	*/
 		
 	SET NOCOUNT ON; 
