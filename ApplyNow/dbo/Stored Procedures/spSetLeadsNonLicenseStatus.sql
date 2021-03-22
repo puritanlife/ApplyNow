@@ -8,7 +8,7 @@ BEGIN;
 	/*---------------------------------------------------------------------------------------- 
 	Author 		Date 			Description
 	------------------------------------------------------------------------------------------  
-	Poonam		9/23/2020		Update a Leads Non Licensed Status Record.
+	Poonam		9/23/2020		Update a Leads Non Licensed Status Record. 
 	DZC			3/16/2021		Rewrote proc, previous version did a whole of unnecessary stuff 
 								(assigning variables, erroring out on correlated subquery results, 
 								uneccessary logging of proc calls. Work assigned in ticket #
